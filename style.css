@@ -1,0 +1,149 @@
+.head{
+    display: flex;
+
+  justify-content: space-around;
+
+  align-items: center;
+
+  min-height: 8vh;
+
+  background-color: rgb(3, 4, 4);
+
+   font-family: "Montserrat", sans-serif;
+  color: antiquewhite;  
+  
+
+}
+.mainimage{
+    display: flex;
+    justify-content: space-between;
+
+}
+#image1{
+    display: flex;
+    justify-content:space-evenly ;
+}
+.divmain{
+    border: 1px solid;
+   
+    justify-content: center;
+    
+
+}
+.container1{
+    border: 1px solid;
+}
+#button{
+padding: 15px;
+border: 1px solid;
+border-radius: 30px;
+
+}
+#image{
+    margin: auto;
+  width: 640px; 
+  padding: 50px;
+  font-family: 'Arial', sans-serif; 
+border: 1px solid;
+   
+
+}
+.text{
+    text-align: center;
+}
+ 
+
+
+#image2{
+display: grid;
+
+}
+
+
+#image3{
+display: grid;
+
+}
+#image4{
+display: grid;
+
+}
+#image5{
+display: grid;
+
+}
+#imagetwo{
+    display: flex;
+    justify-content: space-around;
+
+  
+  
+}
+.text1{
+    display: grid;
+}
+.text2{
+    display: grid;  
+}
+.text2{
+    display: grid; 
+}
+.text2{
+    display: grid;
+}
+.container{
+    display: grid;
+}
+.button1{
+    
+     
+    background-color: black;
+    color: antiquewhite;
+    text-align: center;
+    
+    padding: 15px;
+border: 1px solid;
+border-radius: 30px;
+}
+#content{
+    display: flex;
+    justify-content: space-around;
+
+}
+.but{
+    padding: 15px;
+    border: 1px solid;
+    
+     
+}
+#bottom{
+    display: flex;
+    justify-content: space-around;
+}
+.paragraph{
+    text-align: center;
+}
+.imagebottom{
+    display: flex;
+    justify-content: space-around;
+
+}
+#one{
+    display: grid;
+}
+#two{
+    display: grid;
+}
+#three{
+    display: grid;
+
+}
+#four{
+    display: grid;
+}
+#foot{
+    background-color: black;
+    color: antiquewhite;
+    display: flex;
+    justify-content: space-between;
+}
